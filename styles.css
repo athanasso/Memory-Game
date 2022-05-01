@@ -1,3 +1,9 @@
+* {
+    margin-left: auto;
+    margin-right: auto;
+    width: 25em
+}
+
 #grid {
     width: 400px;
     height: 300px;
@@ -11,4 +17,16 @@ img {
     border-radius: 4px;
     padding: 5px;
     width: 150px;
+}
+
+button {
+    background-color: #CA1919;
+    padding: 0.8rem;
+    width: 100px;
+    border-radius: 10px;
+    background: #CA1919;
+    outline: none;
+    border-color: #CA1919;
+    border: none;
+    cursor: pointer;
 }
