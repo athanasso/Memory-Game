@@ -1,4 +1,5 @@
 * {
+    background-color: bisque;
     margin-left: auto;
     margin-right: auto;
     width: 25em
@@ -20,13 +21,13 @@ img {
 }
 
 button {
-    background-color: #CA1919;
+    background-color: lightcyan;
     padding: 0.8rem;
     width: 100px;
     border-radius: 10px;
-    background: #CA1919;
+    background: lightcyan;
     outline: none;
-    border-color: #CA1919;
+    border-color: lightcyan;
     border: none;
     cursor: pointer;
 }
